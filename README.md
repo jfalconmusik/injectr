@@ -8,3 +8,5 @@ The HTML response is then saved to Back4App to be viewed later by the user. The 
 
 The original idea for this web crawler was to create an app which could automate the process of visiting sites and performing SQL injection attacks on them. 
 As it this, this app is nearly there. It just needs to be able to capture images.
+
+PS: Hosting is a bit different for google play apps. This app will appear shortly in the play store.
