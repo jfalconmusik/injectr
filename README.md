@@ -12,4 +12,9 @@ As it this, this app is nearly there. It just needs to be able to capture images
 PS: Hosting is a bit different for google play apps. This app will appear shortly in the play store, and afterward I will put the link here.
 https://play.google.com/console/u/0/developers/6188602464393613567/app/4974388884645618611/tracks/4697943008464444907?tab=releases <--- the link proving that the app is in review.
 
+--------
+
+The original purpose of this project was hacking. I needed a tester react-flask app for my purposes: https://injectable-shop.herokuapp.com/
+
+
 Link to my portfolio: https://jfalconmusik-35a15.web.app/
