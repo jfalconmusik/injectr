@@ -14,7 +14,7 @@ https://play.google.com/console/u/0/developers/6188602464393613567/app/497438888
 
 --------
 
-The original purpose of this project was hacking. I needed a tester react-flask app for my purposes: https://injectable-shop.herokuapp.com/
+The original purpose of this project was hacking. I needed a tester react-flask app for my purposes: https://injectable-shop.herokuapp.com/ (the heroku repository has a zillion commits)
 
 
 Link to my portfolio: https://jfalconmusik-35a15.web.app/
