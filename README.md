@@ -7,7 +7,7 @@ On the frontend app, the user may sign in and select a url to visit. A small amo
 The HTML response is then saved to Back4App to be viewed later by the user. The actual web crawling is done on the backend in the google app engine.
 
 The original idea for this web crawler was to create an app which could automate the process of visiting sites and performing SQL injection attacks on them. 
-As it this, this app is nearly there. It just needs to be able to capture images.
+As it is, this app is nearly there. It just needs to be able to capture images.
 
 PS: Hosting is a bit different for google play apps. This app will appear shortly in the play store, and afterward I will put the link here.
 https://play.google.com/console/u/0/developers/6188602464393613567/app/4974388884645618611/tracks/4697943008464444907?tab=releases <--- the link proving that the app is in review.
