@@ -10,3 +10,5 @@ The original idea for this web crawler was to create an app which could automate
 As it this, this app is nearly there. It just needs to be able to capture images.
 
 PS: Hosting is a bit different for google play apps. This app will appear shortly in the play store.
+
+Link to my portfolio (still needs work, actually had to roll it back cuz I deleted stuff lol) https://jfalconmusik-35a15.web.app/
